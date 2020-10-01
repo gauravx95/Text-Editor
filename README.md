@@ -1,14 +1,14 @@
 # TEXT EDITOR
 
-This is a [TEXT EDITOR](https://en.wikipedia.org/wiki/Text_editor) dekstop application built in [JAVA](https://www.java.com/en/) using [Eclipse](https://www.eclipse.org/). 
+This is a [TEXT EDITOR](https://en.wikipedia.org/wiki/Text_editor) dekstop application built in [JAVA](https://www.java.com/en/) using [Eclipse](https://www.eclipse.org/) and can also work in [IntelliJ](https://www.jetbrains.com/idea/). 
 
-You might all have used any sort of text editors (either online or offline). We often use it to capture our thoughts, views, ideas and project or work related stuff. 
+One must have used many sort of text editors (either online or offline). We usually use it to write down our views, ideas and project or work related stuff. 
 
-In this application, the user has to register itself by making an account and then he/she can make new files or work on existing files. Here the authentication is done using [SHA-256](https://en.wikipedia.org/wiki/SHA-2) cryptographic hashing function.
+In this application, the user has to register itself by making an account and then they can make new files or work on existing files. Here the authentication is done using [SHA-256](https://en.wikipedia.org/wiki/SHA-2) cryptographic hashing function.
 
 ## Installation
 
-Download the source code from [here](https://github.com/sudhanshu-mallick/Text-Editor) and run it using [Eclipse](https://www.eclipse.org/) on your local machine.
+Download the source code from [here](https://github.com/sudhanshu-mallick/Text-Editor) and run it using [Eclipse](https://www.eclipse.org/) or [IntelliJ] on your local machine.
 
 ## Tools Used
 1. [Java AWT](https://docs.oracle.com/javase/7/docs/api/java/awt/package-summary.html) package
