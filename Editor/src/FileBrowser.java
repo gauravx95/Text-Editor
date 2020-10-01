@@ -11,16 +11,19 @@ import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
 public class FileBrowser extends JPanel implements ActionListener {
+	//open list of files
 	JLabel label = new JLabel("File List: ");
+	//get new file
 	JButton newFile = new JButton("New File");
+	//open existing file
 	JButton open = new JButton("Open");
 	JTextField newFileTF = new JTextField(10);
 
 	ButtonGroup bg;
 	File directory;
 
-	public FileBrowser(String dir) {
-		directory = new File(dir);
+	public FileBrowser(String dire) {
+		directory = new File(dire);
 
 		directory.mkdir();
 
